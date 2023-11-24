@@ -39,3 +39,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMXFsUmtub045UHdHZUV4V1Z5VEtn@13.87.74.71:14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVHlwaWxtamlkcnI2ZFFZYU9HSGY3@13.87.75.155:46130#Naeemivpn6-UK-PRO-%28PT3%29+%28+t.me%2FAlireza_official_10%29+%F0%9F%87%AC%F0%9F%87%A7
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@beeconf.xyz:8080#Naeemivpn6-FR-PRO-%28PT2%29+%28+t.me%2FAlireza_official_10%29+%F0%9F%87%AB%F0%9F%87%B7
+trojan://telegram-id-privatevpns@35.179.79.33:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1#Naeemivpn6-UK-PRO-%2835%29%28%20t.me%2FAlireza_official_10%29%20%F0%9F%87%AC%F0%9F%87%A7
